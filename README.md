@@ -1,1 +1,1 @@
-## jcombari-My-Deep-Learning-Specialization
+## My-Deep-Learning-Specialization
